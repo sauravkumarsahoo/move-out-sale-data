@@ -1,0 +1,14 @@
+[
+  {
+    "id": "prod-1779861096191",
+    "name": "Test Product",
+    "description": "Good Stuff",
+    "images": [
+      "https://raw.githubusercontent.com/sauravkumarsahoo/move-out-sale-data/main/images/zfp_4678_1779861155971.webp"
+    ],
+    "age": "2 years old",
+    "condition": "Good",
+    "expectedPrice": "INR 25000",
+    "status": "available"
+  }
+]

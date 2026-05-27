@@ -1,12 +1,1 @@
-[
-  {
-    "id": "prod-1779873471007",
-    "name": "Available Item Example",
-    "description": "Blah Blah Blah",
-    "images": [],
-    "age": "3 years old",
-    "condition": "Good",
-    "expectedPrice": "₹500",
-    "status": "available"
-  }
-]
+[]

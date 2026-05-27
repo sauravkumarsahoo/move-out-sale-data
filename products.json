@@ -25,5 +25,15 @@
     "images": [],
     "condition": "Good",
     "status": "available"
+  },
+  {
+    "id": "prod-test-1",
+    "name": "Temporary Test Product",
+    "description": "Test description",
+    "images": [],
+    "age": "1 year",
+    "condition": "Good",
+    "expectedPrice": "₹100",
+    "status": "available"
   }
 ]

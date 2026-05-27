@@ -11,5 +11,16 @@
     "images": [],
     "condition": "Good",
     "status": "available"
+  },
+  {
+    "id": "prod-1779883522408",
+    "name": "Test",
+    "images": [
+      "https://raw.githubusercontent.com/sauravkumarsahoo/move-out-sale-data/main/images/zfp_4864_1779885248082.webp"
+    ],
+    "age": "2 years",
+    "condition": "Good",
+    "expectedPrice": "₹100",
+    "status": "available"
   }
 ]

@@ -11,5 +11,12 @@
     "images": [],
     "condition": "Good",
     "status": "available"
+  },
+  {
+    "id": "prod-test-2",
+    "name": "Second Test Product",
+    "images": [],
+    "condition": "Good",
+    "status": "available"
   }
 ]

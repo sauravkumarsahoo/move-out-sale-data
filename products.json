@@ -1,18 +1,5 @@
 [
   {
-    "id": "prod-1779861096191",
-    "name": "Test Product",
-    "description": "Good Stuff",
-    "images": [
-      "https://raw.githubusercontent.com/sauravkumarsahoo/move-out-sale-data/main/images/zfp_4678_1779861155971.webp",
-      "https://raw.githubusercontent.com/sauravkumarsahoo/move-out-sale-data/main/images/zfp_4699_1779868253787.webp"
-    ],
-    "age": "2 years old",
-    "condition": "Good",
-    "expectedPrice": "₹25000",
-    "status": "pending"
-  },
-  {
     "id": "prod-1779873448860",
     "name": "Sold Item Example",
     "images": [],

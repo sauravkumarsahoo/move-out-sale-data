@@ -11,5 +11,13 @@
     "condition": "Good",
     "expectedPrice": "₹25000",
     "status": "pending"
+  },
+  {
+    "id": "prod-1779873448860",
+    "name": "Sold Item Example",
+    "images": [],
+    "condition": "Fair",
+    "expectedPrice": "₹200",
+    "status": "sold"
   }
 ]

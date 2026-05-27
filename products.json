@@ -4,7 +4,8 @@
     "name": "Test Product",
     "description": "Good Stuff",
     "images": [
-      "https://raw.githubusercontent.com/sauravkumarsahoo/move-out-sale-data/main/images/zfp_4678_1779861155971.webp"
+      "https://raw.githubusercontent.com/sauravkumarsahoo/move-out-sale-data/main/images/zfp_4678_1779861155971.webp",
+      "https://raw.githubusercontent.com/sauravkumarsahoo/move-out-sale-data/main/images/zfp_4699_1779868253787.webp"
     ],
     "age": "2 years old",
     "condition": "Good",

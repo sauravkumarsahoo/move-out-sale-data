@@ -1,1 +1,15 @@
-[{"id":"prod-1","name":"Test Item","status":"available","images":[]}]
+[
+  {
+    "id": "prod-1",
+    "name": "Test Item",
+    "status": "available",
+    "images": []
+  },
+  {
+    "id": "prod-1779883790730",
+    "name": "Test",
+    "images": [],
+    "condition": "Good",
+    "status": "available"
+  }
+]

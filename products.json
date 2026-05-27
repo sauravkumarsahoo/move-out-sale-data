@@ -1,13 +1,5 @@
 [
   {
-    "id": "prod-1779873448860",
-    "name": "Sold Item Example",
-    "images": [],
-    "condition": "Fair",
-    "expectedPrice": "₹200",
-    "status": "sold"
-  },
-  {
     "id": "prod-1779873471007",
     "name": "Available Item Example",
     "description": "Blah Blah Blah",

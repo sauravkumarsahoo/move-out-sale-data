@@ -8,7 +8,7 @@
     ],
     "age": "2 years old",
     "condition": "Good",
-    "expectedPrice": "INR 25000",
-    "status": "available"
+    "expectedPrice": "₹25000",
+    "status": "pending"
   }
 ]
